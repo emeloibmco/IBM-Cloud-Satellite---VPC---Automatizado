@@ -1,4 +1,4 @@
-# **IBM Cloud Satellite - Configuración**
+![image](https://github.com/user-attachments/assets/031419a1-1e56-40d4-819c-9a0761b5585c)# **IBM Cloud Satellite - Configuración**
 
 Esta guía ofrece un paso a paso para crear una ubicación de IBM Cloud Satellite, desplegar un clúster de OpenShift y configurar Satellite Config.
 
@@ -14,6 +14,7 @@ Esta guía ofrece un paso a paso para crear una ubicación de IBM Cloud Satellit
    3. [Ejecución del plan](#ejecución-del-plan)
 3. [Asignación de hosts al control plane](#asignación-de-hosts-al-control-plane)
 4. [Instalación de OpenShift](#instalación-de-openshift)
+5. [Ingreso al Bastion](#Ingreso-al-Bastion)
 ---
 
 ## **Pre-requisitos** :pencil:
@@ -86,3 +87,9 @@ Asigna los hosts correspondientes al control plane en las zonas correspondientes
    **Nota:** para usar satellite config es necesario habilites el acceso de administracion de satellite al momento de desplegar el cluster.
 
 ---
+
+## **Ingreso al Bastion**
+
+1. Descargar conexion RDP desde la consola de ibmcloud.
+   ![image](https://github.com/user-attachments/assets/b6b32f62-a4a2-4b2e-8d12-1ccd71613463)
+2. Obtener contrasena utilizando la ssh key privada que se encuentra en el repositorio.(seguir esta [documentacion](#https://cloud.ibm.com/docs/vpc?topic=vpc-vsi_is_connecting_windows&locale=es))  
