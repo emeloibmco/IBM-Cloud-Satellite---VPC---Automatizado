@@ -20,7 +20,7 @@ Esta guía ofrece un paso a paso para crear una ubicación de IBM Cloud Satellit
 ## **Pre-requisitos** :pencil:
 
 - Contar con una cuenta en [IBM Cloud](https://cloud.ibm.com/).
-- Permisos sobre **Schematics**, **Satellite**, **OpenShift** e infraestructura **VPC**. 
+- Permisos sobre **Schematics**, **Satellite**, **OpenShift/kubenetes** e infraestructura **VPC**. 
 
 Se utilizará un pequeño proyecto de Terraform para levantar la infraestructura necesaria en IBM Cloud, facilitando el despliegue de los servicios de IBM Cloud Satellite de manera rápida y sencilla.
 
