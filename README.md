@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/031419a1-1e56-40d4-819c-9a0761b5585c)# **IBM Cloud Satellite - Configuración**
+# **IBM Cloud Satellite - Configuración**
 
 Esta guía ofrece un paso a paso para crear una ubicación de IBM Cloud Satellite, desplegar un clúster de OpenShift y configurar Satellite Config.
 
