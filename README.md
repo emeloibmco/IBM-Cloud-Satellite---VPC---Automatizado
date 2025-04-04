@@ -92,4 +92,4 @@ Asigna los hosts correspondientes al control plane en las zonas correspondientes
 
 1. Descargar conexion RDP desde la consola de ibmcloud.
    ![image](https://github.com/user-attachments/assets/b6b32f62-a4a2-4b2e-8d12-1ccd71613463)
-2. Obtener contrasena utilizando la ssh key privada que se encuentra en el repositorio.[documentacion](#https://cloud.ibm.com/docs/vpc?topic=vpc-vsi_is_connecting_windows&locale=es)
+2. Obtener contrasena utilizando la ssh key privada que se encuentra en el repositorio. [documentacion](https://cloud.ibm.com/docs/vpc?topic=vpc-vsi_is_connecting_windows&locale=es)
